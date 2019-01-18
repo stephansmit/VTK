@@ -1,0 +1,11 @@
+#installation of the this library
+#build directory is VTK/build
+
+
+git clone link_to_git
+cd VTK
+mkdir build
+cd build
+cmake ..
+make -j7 
+
